@@ -1,9 +1,9 @@
-# Rolê BH — 14 a 16 ago 2026
+# Rolê Belo Horizonte — endereço antigo
 
-Guia dos rolês de Belo Horizonte nesse fim de semana: Churrasquinho Menos é Mais no
-feriado da padroeira, samba em Santa Tereza, samba do Cacá e mais 10 opções — com mapa,
-horários, o que tem em cada um e preços, medidos a partir do ibis Savassi.
+Este repositório virou apenas um **redirecionamento**. O roteiro passou a ser publicado
+junto com os outros em:
 
-**PDF:** [Role-BH-2026.pdf](Role-BH-2026.pdf) · **Página:** https://denoww.github.io/role-bh-2026/
+**https://denoww.github.io/viagens/bh-2026/**
 
-Outro fim de semana: [Rolê Brasília](https://denoww.github.io/role-bsb-2026/)
+O `index.html` daqui redireciona pra lá, e o `Role-BH-2026.pdf` continua servido para não quebrar
+quem salvou o link direto do arquivo. Não publicar nada novo neste repo.
